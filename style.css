@@ -1,0 +1,115 @@
+#game--title{
+    font-size: 75px;
+    text-align: center;
+    margin-top: 50px;
+}
+#game--board{
+    height:500px;
+    width: 500px;
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    position: absolute;
+    left: 345px;
+    bottom: 20px;
+    border: solid red 5px;
+}
+
+#game--board :hover{
+    background-color: red;
+}
+
+#box0{
+    height: 166px;
+    width: 166px;
+    font-size: 166px;
+    text-align: center;
+    background-color: black;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+
+#box1{
+    height: 166px;
+    width: 166px;
+    font-size: 166px;
+    text-align: center;
+    background-color: black;
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
+    color: white;
+}
+
+
+#box2{
+    height: 166px;
+    width: 166px;
+    font-size: 166px;
+    text-align: center;
+    background-color: black;
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
+    color: white;
+}
+#box3{
+    height: 166px;
+    width: 166px;
+    font-size: 166px;
+    text-align: center;
+    background-color: black;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+#box4{
+    height: 166px;
+    width: 166px;
+    font-size: 166px;
+    text-align: center;
+    background-color: black;
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
+    color: white;
+}
+#box5{
+    height: 166px;
+    width: 166px;
+    font-size: 166px;
+    text-align: center;
+    background-color: black;
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
+    color: white;
+}
+#box6{
+    height: 166px;
+    width: 166px;
+    font-size: 166px;
+    text-align: center;
+    background-color: black;
+    border: 0px white solid;
+    color: white;
+    
+}
+
+#box7{
+    height: 166px;
+    width: 166px;
+    background-color: black;
+    font-size: 166px;
+    text-align: center;
+    color: white;
+    border-left: 1px solid white;
+}
+#box8{
+    height: 166px;
+    width: 166px;
+    background-color: black;
+    font-size: 166px;
+    text-align: center;
+    color: white;
+    border-left: 1px solid white;
+}
